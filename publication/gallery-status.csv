@@ -1,0 +1,5 @@
+gallery_id,gallery_name,selected_reading_id,recorded_at,temperature_c,limit_c,status
+G-02,Dyed Silks,RS-2103,2026-09-18T09:30Z,22.1,21.5,ALERT
+G-01,Paper Lanterns,RS-2101,2026-09-18T09:00Z,24.7,24.0,ALERT
+G-03,Archive Maps,,,,23.0,NO_READING
+G-04,Bronze Court,RS-2108,2026-09-18T07:00Z,26.0,26.0,NORMAL
